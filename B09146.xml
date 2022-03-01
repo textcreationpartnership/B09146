@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Commander in Chief of the Parliaments forces in Ireland Whereas, the Lord in mercie hath been pleased, to bless the endevours of his poor unworthy instruments in this army, in bringing the work of war in this nation to so hopeful a period.</title>
+            <author>Fleetwood, Charles, d. 1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09146</idno>
+            <idno type="OCLC"> 69648658</idno>
+            <idno type="STC">Wing F1241B</idno>
+            <idno type="STC">ESTC R177121</idno>
+            <idno type="EEBO-CITATION">69648658</idno>
+            <idno type="OCLC">ocm 69648658</idno>
+            <idno type="VID">184921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184921)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2879:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Commander in Chief of the Parliaments forces in Ireland Whereas, the Lord in mercie hath been pleased, to bless the endevours of his poor unworthy instruments in this army, in bringing the work of war in this nation to so hopeful a period.</title>
+                  <author>Fleetwood, Charles, d. 1692.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Will. Balden,</publisher>
+                  <pubPlace>Printed at Dublin, :</pubPlace>
+                  <date>Anno Dom. 1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Charles Fleetwood.</note>
+                  <note>Reproduction of original in: Library Company of Philadelphia.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184921:1"/>
+            <head>By the Commander in Chief of the PARLIAMENTS Forces in IRELAND.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas, the Lord in Mercie hath been pleaſed, to bleſe the Endevours of his poor unworthy Inſtruments in this Army, in bringing the work of Mar in this Nation to ſo hopeful a Period; yet withall conſidering that every Condition hath us Tempt<g ref="char:EOLhyphen"/>ations, and even outward Peace and Succeſſes attended oft times with the greateſt and moſt dangerous appearing in a Spirit of Careleſſneſs and Negligence, ariſing much from Inconſiderateneſs and ſlighting of Enemies (becauſe but few, and their Condition low) too little minding how God can, and oft doth make poor de<g ref="char:EOLhyphen"/>ſpiſed handfuis of the Enemie, prevalent againſt, or at leaſt vexations to his own Inſtruments (whom he hath before eminently uſed) when they are given up to, or acted by the forementioned Spirit of Negligence in the Duties of their Places, and having too evident grounds to fear and beleive, that ſuch an evil Temper is much bro<g ref="char:EOLhyphen"/>ken in upon this Army, ſince the days that God leſſened the number of their Ene<g ref="char:EOLhyphen"/>mies, ſo as that, that conſcientious Care which hath formerly been obſerved in the keeping cloſe to Duty, is much abated, partly through the Officers abſenting themſelves too frequently from their reſpective Commands, or in being too careleſs and remiſs when preſent with them to execute the Duties of their Charges, whereby the through &amp; effectual proſecution of the Enemie yet remaining is not onely neglected, but ſome of the Officers themſelves become uncapable of giving a due account of the Truſt committed to them,</p>
+            <p>As perticularly appears in the ſupine Careleſſneſs and Negligence of Captain Deyas in the late loſs of the Fort of <hi>Archeen</hi> in the Iſle of <hi>Arran:</hi> For Prevention of which Evils in future, and the ſad Conſequencies of them; I thought it my Duty with the Advice of a Council of Officers, to Publiſh this, which I deſire and hope, may be in Mer<g ref="char:EOLhyphen"/>cy a Warning to all, both Officers and Souldiers under my Command, who are hereby required diligently to Obſerve and Execute the enſuing Articles according to their Capacities reſpectively. (<hi>viz.</hi>)</p>
+            <p>I. That no Commander in Chief of the Forces in any Precinct, be abſent a night out of the ſaid Precinct, un<g ref="char:EOLhyphen"/>leſs upon Publick Service or buſineſs relating to his Charge, without leave from my ſelf or other Superior Officer, upon penalty of loſs of Place.</p>
+            <p>II. That no Governor of a Garriſon in any Precinct, do leave his Government or Command or be abſent a night from his Charge, unleſs upon Publick Service againſt an Enemie, or upon neceſſarie buſineſs relating to his Com<g ref="char:EOLhyphen"/>mand, without leave from a General-Officer or the Officer Commanding in Chief in the Precinct, or whom he ſhall Au<g ref="char:EOLhyphen"/>thorize ſo to give leave, upon loſs of Place.</p>
+            <p>III. That no Inferior Officer whatſoever, be abſent without leave, a night from his Charge, upon penalty of Caſhiering.</p>
+            <p>IV. That no privat Souldier ſhall depart a Miſe from his Garriſon or Colours, without leave from his Officer, upon the penalty provided in the firſt Article, concerning Duties in Camp and Garriſon, Expreſt in the Book of Articles.</p>
+            <p>V. That the Commanders of the Forces in their reſpective Precincts, or ſuch as ſhall be impowered by them, in giving leave to any under them, do both reſpect the ſeaſon of doing it, the Number they give leave unto, and other Circumſtances, ſo as the Publick Work may not ſuffer thereby; and likewiſe that the ſaid Commanders do as oft as they can, take a view of the Forces under their Charge, inquiring diligently after their Discharge or Neglects of Du<g ref="char:EOLhyphen"/>tie, and cauſe ſuch Neglects to be Puniſhed.</p>
+            <p>VI. That a ſtrict Care be always had in the disarming all <hi>Iriſh</hi> whatſoever, or others who have been in Arms againſt the Parliament at their entering into any Garriſon, upon penalty of Caſhiering the Officer commanding the Guard, who ſhall be Negligent herein.</p>
+            <p>VII. That the Officer commanding any Guard, do not ſet forth a Centinel without a Match lighted, except he have a fire lock Musket: And that no Officer be abſent from his Guard, nor ſuffer any Souldier to be off from the Guard, but upon a juſtifiable Occaſion, until they be releived, upon penalty of Caſhiering.</p>
+            <p>VIII. That at no time, above the Number of two <hi>Iriſh</hi> at once (and thoſe unarmed) be ſuffered to enter into any Ca<g ref="char:EOLhyphen"/>ſtle, Fort, or Citidel upon any Occaſion whatſoever, without ſpecial Order from the Governor, nor the Grate or Door of any Caſtle, Fort, or Citidel ſtand open but at the time of paſſing in and out, upon penalty of Caſhiering the Officer commanding the Guard wherein they entered, or ſuch Grate or Door ſtood open.</p>
+            <p>IX. And laſtly, for the due and frequent Exerciſe of Troops and Companies (whereof there is lately too much Neglect) as alſo touching defending of Garriſons with Care, and to the utmoſt extremity, and in all other perticulars requiſit for preſerving the Diſcipline of the Army, the Officers are required to obſerve and put into Execution the Printed Book of Articles, which are to be Publiſhed once every Month atleaſt by the Chief Officer preſent with every Troop or Company, or upon default thereof, the ſaid Officer ſhall for the firſt Offence forfeit one Months Pay, for the ſecond two Months Pay, and for the third be Caſhiered.</p>
+            <p>And all Officers whatſoever, who are now abſent from their Charges without ſpecial Licence, are required to repair unto their reſpective Commands, within three days after Publication hereof.</p>
+            <closer>
+               <dateline>Dated at DUBLIN,<date> 
+                     <hi>December</hi> the 21, 1652.</date>
+               </dateline>
+               <signed>Charles Fleetwood.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at DUBLIN, by WILL. BLADEN. <hi>Anno Dom.</hi> 1652.</p>
+            <pb facs="tcp:184921:2" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
